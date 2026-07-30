@@ -1,0 +1,37 @@
+User
+
+↓
+
+PDF Upload
+
+↓
+
+PDF Parser
+
+↓
+
+Document Chunking
+
+↓
+
+Retrieval Engine
+
+↓
+
+Orchestrator Agent
+
+↓
+
+-------------------------
+
+Risk Analysis Agent
+
+Summarization Agent
+
+Question Answering Agent
+
+-------------------------
+
+↓
+
+Grounded Response
